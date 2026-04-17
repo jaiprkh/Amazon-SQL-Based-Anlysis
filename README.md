@@ -9,10 +9,11 @@ Data Cleaning
 Data Analysis
 Database Setup
 🗂️ Project Structure
-├── amazon_india_store_v3.sql   # Raw dataset / database schema
-├── cleaning.sql               # Data cleaning queries
-├── analysis.sql               # Analytical queries
-└── README.md                  # Project documentation
+Files:
+- Dataset
+- Cleaning queries
+- Analysis queries
+- Documentation
 ⚙️ Technologies Used
 SQL (MySQL / PostgreSQL compatible)
 Database Management Systems (DBMS)
