@@ -14,6 +14,7 @@ Files:
 - Cleaning queries
 - Analysis queries
 - Documentation
+
 ⚙️ Technologies Used
 SQL (MySQL / PostgreSQL compatible)
 Database Management Systems (DBMS)
