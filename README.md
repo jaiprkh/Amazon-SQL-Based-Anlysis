@@ -8,6 +8,7 @@ The project is divided into three main stages:
 Data Cleaning
 Data Analysis
 Database Setup
+
 🗂️ Project Structure
 Files:
 - Dataset
