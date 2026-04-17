@@ -40,7 +40,7 @@ Generate business insights
 
 Import the dataset:
 
-SOURCE amazon_india_store_v3.sql;
+SOURCE amazon_india_dataset;
 2. Run Data Cleaning
 SOURCE cleaning.sql;
 3. Run Analysis Queries
