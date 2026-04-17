@@ -41,19 +41,31 @@ Generate business insights
 Import the dataset:
 
 SOURCE amazon_india_dataset;
+
 2. Run Data Cleaning
 SOURCE cleaning.sql;
+
 3. Run Analysis Queries
 SOURCE analysis.sql;
+
 📊 Sample Insights
+
 Top-selling categories
+
 Price distribution across products
+
 High-rated products analysis
+
 Market trends in Amazon India
+
 📌 Future Improvements
+
 Add visualization (Power BI / Tableau)
+
 Automate reporting
+
 Optimize queries for performance
+
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
